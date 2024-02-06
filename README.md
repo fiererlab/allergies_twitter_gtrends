@@ -13,7 +13,7 @@ Trends data is provided as it is used in the code.
 
 ## Code
 ### Language Model
-The model for selecting seasonal allergy-related Tweets is provided as well as code to load and run it against a collection of Tweets.
+The model for selecting seasonal allergy-related Tweets is not provided as as it is approvimatly 500MB; please contact me if you need it.
 
 ### California
 A pared-down version of the code for the correlation and cointegration testing in California is provided.
