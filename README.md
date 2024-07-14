@@ -26,3 +26,5 @@ A pared-down version of the code for visualizing seasonal allergies in the Unite
 
 ### Environment
 An image of the complete development environment can be downloaded from Docker; however, it requires Tensorflow, Torch, and CUDA. Contact me if you wish to run this code and are having difficulty either with the container, or if you are trying to set up your own environment.
+
+```docker pull oliverae/allergy_t_g```
