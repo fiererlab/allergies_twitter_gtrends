@@ -1,6 +1,8 @@
 # allergies_twitter_gtrends
 Content for "Internet-based surveillance to track the prevalence of seasonal allergies across the US."
 
+This version is maintained, and any updates will appear here.
+
 ## Data
 ### California HHS Data
 This data was provided by California's Department of Health Care Access and Information and has been further anonymized beyond what was provided. All relevant codes were aggregated together per county, further obfuscating individual information, and then transformed based on population and averaged with a moving window. This data is embedded in other files and not provided separately.
